@@ -1,6 +1,26 @@
 # GT Financeiro - Sistema de Gestão Financeira
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/dididucci1/gt-company)
+
 Sistema web moderno de gestão financeira integrado ao Sienge, desenvolvido com Next.js, TypeScript e Tailwind CSS.
+
+## 🚀 Deploy na Vercel
+
+### Passos para Deploy:
+
+1. **Acesse a Vercel**: https://vercel.com
+2. **Import Project**: Conecte sua conta GitHub e importe `dididucci1/gt-company`
+3. **Configure**: A Vercel detectará automaticamente que é um projeto Next.js
+4. **Deploy**: Clique em "Deploy" - o sistema ficará online em ~2 minutos
+
+**Credenciais de acesso:**
+- Email: `financeiro@gtcompany.com`
+- Senha: `gt2026*`
+
+### Variáveis de Ambiente (Opcional)
+Nenhuma variável de ambiente é necessária - o sistema usa dados mockados.
+
+---
 
 ## 🚀 Tecnologias
 
